@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(229, 230, 173);
+}
+
+h1 {
+    color: rgb(23, 23, 107);
+    text-align: left;
+}
+
+p {
+    color: black;
+    font-size: 20px;
+}
